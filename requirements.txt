@@ -5,11 +5,4 @@ pandas
 scikit-learn
 joblib
 numpy
-=======
-fastapi
-uvicorn
-pandas
-scikit-learn
-joblib
-numpy
 >>>>>>> a138de1 (Initial commit)
