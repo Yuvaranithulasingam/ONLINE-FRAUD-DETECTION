@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* styles.css */
 /* styles.css */
 body {
@@ -45,3 +46,52 @@ button {
 button:hover {
     background: #218838;
 }
+=======
+/* styles.css */
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('C:\Users\thula\OneDrive\Documents\new\Screenshot 2025-02-24 202406.png') no-repeat center center/cover;
+}
+
+body {
+    background: url('C:\Users\thula\OneDrive\Documents\new\Screenshot 2025-02-24 202406.png') no-repeat center center/cover;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+}
+
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background: #218838;
+}
+>>>>>>> a138de1 (Initial commit)
