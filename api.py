@@ -11,7 +11,7 @@ app = FastAPI()
 import joblib
 
 # Load the trained fraud detection model
-model = joblib.load(r"C:\Users\thula\OneDrive\Documents\new\fraud_detection_model.pkl")
+model = joblib.load(r"C:\Users\thula\OneDrive\Documents\GIDY\fraud_detection_model.pkl")
 
 @app.post("/predict/")
 async def predict(features: list):
